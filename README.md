@@ -1,8 +1,21 @@
 - 👋 **Olá, sou @AlexsanderSystem**
+- 
 - 👀 Estou interessado em manter um repositorio de meus estudos para uma apresentação formal e profissional.
-- 🌱 Atualmente estou aprendendo, Fundamentos de Arquitetura de Sistemas, Conceitos de arquitetura em aplicações para internet e A arquitetura de aplicações móveis e internet das coisas. 
-- 💞️ Estou procurando colaborar em oferecer acesso ao meus estudos, oferecer e compartilhar experiencias com a programação front-end e back-end. 
+- 👋 Bootcamps gratuitos: https://dio.me/sign-up?ref=8IWEI5GZXR - Escola DIO 
+- 🌱 Atualmente estou aprendendo:
+
+SPTech Desenvolvimento Front-end
+Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end utilizando o React.js para atuação em projetos e no desenvolvimento web, por meio de componentes da interface de usuários.
+https://web.dio.me/track/sp-tech-desenvolvimento-front-end?tab=path
+
+- 💞️ Estou procurando colaborar em oferecer acesso ao meus estudos, oferecer e compartilhar experiencias com a programação front-end e back-end.
+  
 - 📫 Como chegar até mim 11 9 1127*8299.
+
+
+
+
+
 - ✨ PROGRAMAS USADOS NAS AULAS :
 1. SoapUI 5.6.1
 2. PyCharm Community Edition 2021.3.1
@@ -10,6 +23,9 @@
 4. IDLE (Python 3.10 64-bit)
 5. VISUAL STUDIO CODE : 
 - ✨ EXTENSÃO DO VSCODE:
+
+
+
 
 Nome: Auto Close Tag
 ID: formulahendry.auto-close-tag
