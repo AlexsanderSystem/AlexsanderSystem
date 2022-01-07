@@ -1,7 +1,6 @@
-- 👋 Olá, sou @AlexsanderSystem
+- 👋 **Olá, sou @AlexsanderSystem**
 - 👀 Estou interessado em manter um repositorio de meus estudos para uma apresentação formal e profissional.
-- 🌱 Atualmente estou aprendendo HTML, CSS, PHP, JAVASCRIPT, SOAP, REST, XLM, JSON. Fundamentos de Arquitetura de Sistemas.
-Conceitos de arquitetura em aplicações para internet.
+- 🌱 Atualmente estou aprendendo, Fundamentos de Arquitetura de Sistemas, Conceitos de arquitetura em aplicações para internet e A arquitetura de aplicações móveis e internet das coisas. 
 - 💞️ Estou procurando colaborar em oferecer acesso ao meus estudos, oferecer e compartilhar experiencias com a programação front-end e back-end. 
 - 📫 Como chegar até mim 11 9 1127*8299.
 - ✨ PROGRAMAS USADOS NAS AULAS :
