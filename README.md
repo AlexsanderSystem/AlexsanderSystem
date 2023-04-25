@@ -1,22 +1,4 @@
-- 👋 **Olá, sou @AlexsanderSystem**
-- 
-- 👀 Estou interessado em manter um repositorio de meus estudos para uma apresentação formal e profissional.
-- 👋 Bootcamps gratuitos: https://dio.me/sign-up?ref=8IWEI5GZXR - Escola DIO 
-- 🌱 Atualmente estou aprendendo:
-
-SPTech Desenvolvimento Front-end
-Você aprenderá muito mais sobre os conceitos de desenvolvimento front-end utilizando o React.js para atuação em projetos e no desenvolvimento web, por meio de componentes da interface de usuários.
-https://web.dio.me/track/sp-tech-desenvolvimento-front-end?tab=path
-
-- 💞️ Estou procurando colaborar em oferecer acesso ao meus estudos, oferecer e compartilhar experiencias com a programação front-end e back-end.
-  
-- 📫 Como chegar até mim 11 9 1127*8299.
-
-
-
-
-
-- ✨ PROGRAMAS USADOS NAS AULAS :
+- ✨ PROGRAMAS USADOS :
 1. SoapUI 5.6.1
 2. PyCharm Community Edition 2021.3.1
 3. Postman
